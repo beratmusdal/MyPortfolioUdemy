@@ -7,9 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Views\Experience\ExperienceList.cshtml" />
     <None Include="Views\Shared\Components\_HeadComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_LayoutHeadComponentPartial\Default.cshtml" />
     <None Include="Views\Shared\Components\_LayoutNavbarComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_LayoutScriptComponentPartial\Default.cshtml" />
     <None Include="Views\Shared\Components\_LayoutSidebarComponentPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\_StatisticComponentPartial\Default.cshtml" />
     <None Include="wwwroot\js\site.js" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
@@ -65,10 +69,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.17" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Views\Shared\Components\_LayoutScriptComponentPartial\" />
   </ItemGroup>
 
 </Project>
