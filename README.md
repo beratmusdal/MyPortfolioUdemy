@@ -1,21 +1,21 @@
-# Dinamik Portföyo Web Sitesi
+# Dinamik Portfolyo Web Sitesi
 
 
 
 ## Proje Açıklaması
 
-Bu projeyi, **Udemy** üzerinde tamamladığım "Asp.Net Core ile Dinamik Portföyo Web Sitesi" kursu kapsamında geliştirdim. Bu eğitim, iki parttan oluşmaktadır:
+Bu projeyi, **Udemy** üzerinde tamamladığım "Asp.Net Core ile Dinamik Portfolyo Web Sitesi" kursu kapsamında geliştirdim. Bu eğitim, iki parttan oluşmaktadır:
 
 1. Partta: Kullanıcı arayüzü (UI)
 2. Partta: Admin paneli
 
 ### Projenin Amacı
 
-Bu projedeki amacımız, Asp.Net Core kullanarak sıfırdan dinamik bir portföyo web sitesi geliştirebilmektir.
+Bu projedeki amacımız, Asp.Net Core kullanarak sıfırdan dinamik bir portfolyo web sitesi geliştirebilmektir.
 
 ### Senaryo Kurgusu
 
-Projede bir portföyo teması üzerinden SQL veritabanı kullanarak "Hakkımda", "Deneyimlerim", "Yeteneklerim", "Referanslarım" ve "İletişim Bilgilerim" gibi verilerin dinamik olarak yönetimi sağlanmaktadır.
+Projede bir portfolyo teması üzerinden SQL veritabanı kullanarak "Hakkımda", "Deneyimlerim", "Yeteneklerim", "Referanslarım" ve "İletişim Bilgilerim" gibi verilerin dinamik olarak yönetimi sağlanmaktadır.
 
 ### Teknik İçerikler
 
