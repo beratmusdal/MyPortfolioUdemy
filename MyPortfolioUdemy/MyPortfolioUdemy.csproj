@@ -14,6 +14,9 @@
     <None Include="Views\Shared\Components\_LayoutScriptComponentPartial\Default.cshtml" />
     <None Include="Views\Shared\Components\_LayoutSidebarComponentPartial\Default.cshtml" />
     <None Include="Views\Shared\Components\_StatisticComponentPartial\Default.cshtml" />
+    <None Include="Views\ToDoList\CreateToDoList.cshtml" />
+    <None Include="Views\ToDoList\Index.cshtml" />
+    <None Include="Views\ToDoList\UpdateToDoList.cshtml" />
     <None Include="wwwroot\js\site.js" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
